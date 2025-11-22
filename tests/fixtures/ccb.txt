@@ -1,0 +1,4 @@
+CCB Export 2024
+date	in_out	amount	channel	note	ref	category
+2024/02/01	out	88.00	Online	外卖	C2001	餐饮
+2024/02/05	in	1500.00	Payroll	二月工资	C2002	收入

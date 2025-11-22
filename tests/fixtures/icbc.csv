@@ -1,0 +1,4 @@
+ICBC export 2024
+date,type,amount,channel,memo,reference,category
+2024-01-02,debit,123.45,POS,超市消费,A1001,餐饮
+2024-01-03,credit,2000.00,Transfer,工资入账,A1002,收入
